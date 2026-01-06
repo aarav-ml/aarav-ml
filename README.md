@@ -19,3 +19,5 @@ Check my repositories for:
 
 ## Contact
 - GitHub: [@aarav-ml](https://github.com/aarav-ml)
+- E-Mail: aarav.jain01jul@gmail.com
+- Instagram: (https://www.instagram.com/noctisdominion/)

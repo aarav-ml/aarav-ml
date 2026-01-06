@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Aarav 👋
 
-<!--
-**aarav-ml/aarav-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Scientist | Python & Machine Learning Enthusiast  
+13 years old | Building projects to solve real problems
 
-Here are some ideas to get you started:
+## Skills
+- Python (Intermediate → Advanced)
+- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+- Machine Learning: scikit-learn
+- Data Visualization & Reporting
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Check my repositories for:
+- Python automation scripts
+- Data Analysis projects (Kaggle datasets)
+- Machine Learning models
+
+## Contact
+- GitHub: [@aarav-ml](https://github.com/aarav-ml)
